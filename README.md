@@ -8,3 +8,7 @@ I FINISHED ITTT!
 It kind of felt like a herculean task, but i found a way.
 You know how tech people always say " there's more than one way to write code"
 WELL! lol i found my own way! 
+
+UPDATE on the UPDATE!
+I have included the visualization of all the data extracted from the Sales DataFrame.
+:)
